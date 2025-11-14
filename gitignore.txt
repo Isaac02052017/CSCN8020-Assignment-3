@@ -1,0 +1,35 @@
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment folders
+.venv/
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Torch model files
+*.pth
+*.pt
+
+# Auto-generated training results
+Results/
+*/Results/
+*.csv
+*.png
+
+# Atari ROMs (AutoROM)
+roms/
+
+# IDE settings
+.vscode/
+.idea/
